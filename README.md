@@ -1,2 +1,2 @@
 # ML_Clustering_PID
-ML implementation in Nuclear Physics PID plots
+A gas filled ionization chamber is used in Nuclear Physics experiments to make a dE vs E plots which can be used to separate beam and recoil particles from beam contaminants. A graphical cut is usually made by hand to select the beam and recoil particles during analysis. This script uses "K-Means" clustering algorithm to separate the useful (beam + recoil) particles from contaminants.  
